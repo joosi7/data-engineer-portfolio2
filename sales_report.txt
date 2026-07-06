@@ -1,0 +1,42 @@
+========================================
+     SALES PIPELINE REPORT
+     Generated: 2026-07-06 02:04
+========================================
+
+PIPELINE SUMMARY
+----------------------------------------
+Total rows loaded  : 18
+Clean rows         : 14
+Rejected rows      : 4
+
+REJECTED ROWS
+----------------------------------------
+  x Laptop - Invalid quantity: abc
+  x Mouse - Invalid quantity: 
+  x Keyboard - Invalid quantity: abc
+  x Mouse - Invalid quantity: 
+
+REVENUE BY STORE
+----------------------------------------
+  Store1: $1,465,000
+  Store2: $3,755,000
+  Store3: $2,270,000
+
+REVENUE BY PRODUCT
+----------------------------------------
+  Laptop: $4,950,000
+  Mouse: $200,000
+  Keyboard: $325,000
+  Monitor: $1,560,000
+  Headphones: $455,000
+
+TOP PERFORMERS
+----------------------------------------
+  Best store    : Store2 ($3,755,000)
+  Worst store   : Store1 ($1,465,000)
+  Best product  : Laptop ($4,950,000)
+  Worst product : Mouse ($200,000)
+
+========================================
+  Total revenue : $7,490,000
+========================================

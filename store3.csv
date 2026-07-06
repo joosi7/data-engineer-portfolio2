@@ -1,0 +1,7 @@
+date,product,price,quantity,store
+2024-01-01,Monitor,120000,5,Store3
+2024-01-01,Keyboard,25000,8,Store3
+2024-01-02,Headphones,35000,6,Store3
+2024-01-02,Mouse,8000,,Store3
+2024-01-03,Laptop,450000,2,Store3
+2024-01-03,Monitor,120000,3,Store3
